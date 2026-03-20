@@ -41,7 +41,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[QogamAI](https://github.com/Lumix1337/qogam-analyze-ai)** | Project that me and my team developed in 2 days of AI Hackathon | React, TypeScript, Django |
+| **[QogamAI](https://github.com/Lumix1337/qogam-analyze-ai)** | Project that my team and I developed in 2 days of AI Hackathon | React, TypeScript, Django |
 
 ---
 
