@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <br><br>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </div>
@@ -38,7 +39,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Project Name 1](https://github.com/Lumix1337/qogam-analyze-ai)** | A brief description of what this project does and the problem it solves. | React, TypeScript |
+| **[QorgaAI](https://github.com/Lumix1337/qogam-analyze-ai)** | A brief description of what this project does and the problem it solves. | React, TypeScript |
 
 ---
 
