@@ -4,6 +4,13 @@
 
 ---
 
+<div align="center">
+  <img src="https://tenor.com/ru/view/eren-freedom-eren-yeager-attack-on-titan-aot-gif-27648708" width="700" alt="freedom" />
+  <br/>
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🔭 Currently building full-stack projects and competing in hackathons.
@@ -21,7 +28,7 @@
   </a>
 </div>
 
-## Tools & Environment
+### Tools & Environment
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,fedora,git" height="55" alt="Tools" />
