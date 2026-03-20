@@ -20,18 +20,11 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,mongodb,vite,nodejs,express&perline=8" height="65" alt="Main Stack" />
-  </a>
-</div>
-
-### Tools & Environment
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,fedora,git" height="55" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,mongodb,vite,nodejs,express,linux,git&perline=5" height="200" alt="Main Stack and tools" />
   </a>
 </div>
 
