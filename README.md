@@ -37,6 +37,12 @@
 
 ---
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,mongodb,vite,nodejs,express,linux,fedora,git" alt="My Skills" />
+  </a>
+</div>
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
