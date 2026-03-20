@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://tenor.com/ru/view/eren-freedom-eren-yeager-attack-on-titan-aot-gif-27648708" width="700" alt="freedom" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVwczFzenlubWNsYnJyeXZ1NW9hbXJ0YmtqbXlxZHY0MGNmcjY1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lmFm5QZMzdmQ8/giphy.gif" width="530" alt="" />
   <br/>
 </div>
 
