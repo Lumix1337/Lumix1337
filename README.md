@@ -38,19 +38,18 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Project Name 1](https://github.com/YOUR_USERNAME/repo1)** | A brief description of what this project does and the problem it solves. | React, TypeScript, Node.js |
-| **[Project Name 2](https://github.com/YOUR_USERNAME/repo2)** | Describe your hackathon project or any other significant work here. | Express, JavaScript, SQL |
+| **[Project Name 1](https://github.com/Lumix1337/qogam-analyze-ai)** | A brief description of what this project does and the problem it solves. | React, TypeScript |
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/YOUR_USERNAME" alt="Dima's Github chart" />
+  <img src="https://ghchart.rshah.org/Lumix1337" alt="Github chart" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Lumix1337">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumix1337&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
