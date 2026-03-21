@@ -23,7 +23,7 @@
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,mongodb,vite,nodejs,express,linux,git&perline=5" height="200" alt="Main Stack and tools" />
   </a>
 </div>
