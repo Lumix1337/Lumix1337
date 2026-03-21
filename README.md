@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Ansar</h1>
+<h1 align="center">Hi there 👋, I'm Ansar</h1>
 
-<h3 align="center">Full-Stack Developer | Crafting modern web applications</h3>
+<h3 align="center">Full-Stack Developer 💻 | Crafting modern web applications</h3>
 
 ---
 
