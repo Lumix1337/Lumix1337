@@ -24,7 +24,7 @@
 
 <div align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,mongodb,vite,nodejs,express,linux,git&perline=5" height="200" alt="Main Stack and tools" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,mongodb,nodejs,express,vite,linux,vscode,git&perline=6" height="200" alt="Main Stack and tools" />
   </a>
 </div>
 
