@@ -35,6 +35,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[QogamAI](https://github.com/Lumix1337/qogam-analyze-ai)** | Project that my team and I developed in 2 days of AI Hackathon | <img src="https://skillicons.dev/icons?i=react,ts,django" height="30" /> |
+| **[Telegram AI Bot](https://github.com/Lumix1337/telegram-ai-bot)** | Telegram bor with AI features | <img src="https://skillicons.dev/icons?i=nodejs,ts" height="30" /> |
 
 ---
 
