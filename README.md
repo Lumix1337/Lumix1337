@@ -13,8 +13,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building full-stack projects and competing in hackathons.
-- 🌱 Deepening my knowledge in API optimization, database design, and backend architecture.
+- 🔭 Currently learning NextJS and building full-stack projects.
+- 🌱 Deepening my knowledge in API optimization, database design, and architecture.
 - 💻 Workspace: I prefer a terminal-centric workflow, tiling window managers, and Fedora Linux.
 - 📫 How to reach me: **[olzagula@gmail.com](mailto:olzagula@gmail.com)**
 
