@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently learning NextJS and building full-stack projects.
-- 🌱 Deepening my knowledge in API optimization, database design, and architecture.
-- 💻 Workspace: I prefer a terminal-centric workflow, tiling window managers, and Fedora Linux.
+- ⚙️ Primary stack TypeScript & NextJS.
+- 🔭 Deepening my knowledge in API optimization, database design, and architecture.
+- 💻 Workspace: Using Fedora Linux and Win11.
 - 📫 How to reach me: **[olzagula@gmail.com](mailto:olzagula@gmail.com)**
 
 ---
