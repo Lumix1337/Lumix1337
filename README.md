@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJpNjhsMnV3bjNib2QwaDVpYjNmZzB0eWQxMHVzejBmNXNubDRkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I6wUi5eTdUCWI/giphy.gif" width="530" alt="" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAzYjcydjU4cHhxdG54NDk3bG9qbGl2aG41NTRsNzR0dXp4OTlsdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HyOOyynWxMxig/giphy.gif" width="530" alt="" />
   <br/>
 </div>
 
@@ -48,6 +48,5 @@
 <p align="center">
   <a href="https://github.com/Lumix1337">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumix1337&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumix1337&layout=compact&hide_title=1&card_width=300&theme=tokyonight" alt="Top language used in my repos" />
   </a>
 </p>
