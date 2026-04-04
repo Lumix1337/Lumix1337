@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- ⚙️ Primary stack TypeScript & NextJS.
+- ⚙️ Primary stack: NextJS & Fastify.
 - 🔭 Deepening my knowledge in API optimization, database design, and architecture.
 - 💻 Workspace: Using Fedora Linux and Win11.
 - 📫 How to reach me: **[olzagula@gmail.com](mailto:olzagula@gmail.com)**
