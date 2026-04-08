@@ -41,9 +41,9 @@
 
 ## 📈 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/Lumix1337" alt="Github chart" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/Lumix1337">
