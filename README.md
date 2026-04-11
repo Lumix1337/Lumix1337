@@ -16,6 +16,7 @@
 - ⚙️ Primary stack: NextJS & Fastify.
 - 🔭 Deepening my knowledge in API optimization, database design, and architecture.
 - 💻 Workspace: Using Fedora Linux and Win11.
+- 🏆 Achievements: **II Place** in Auyl Hackathon
 - 📫 How to reach me: **[olzagula@gmail.com](mailto:olzagula@gmail.com)**
 
 ---
