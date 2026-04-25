@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- ⚙️ Primary stack: NextJS & Fastify.
+- ⚙️ Primary stack: NextJS & NestJS.
 - 🔭 Deepening my knowledge in API optimization, database design, and architecture.
 - 💻 Workspace: Using Arch Linux and Win11.
 - 🏆 Achievements: **II Place** in Auyl Hackathon
@@ -25,7 +25,7 @@
 
 <div align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,postgres,mongodb,nodejs,express,neovim,arch,git&perline=6" height="200" alt="Main Stack and tools" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,postgres,mongodb,nodejs,express,nestjs,arch,git&perline=6" height="200" alt="Main Stack and tools" />
   </a>
 </div>
 
