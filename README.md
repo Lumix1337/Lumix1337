@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- ⚙️ Primary stack: React/NextJS & NestJS.
+- ⚙️ Primary stack: React/NextJS & Java/SpringBoot.
 - 🔭 Deepening my knowledge in API optimization and architecture.
 - 🏆 Achievements: **II Place** in Auyl Hackathon
 - 📫 How to reach me: **[olzagula@gmail.com](mailto:olzagula@gmail.com)**
@@ -24,7 +24,7 @@
 
 <div align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,postgres,mongodb,nodejs,express,nestjs,docker,git&perline=6" height="200" alt="Main Stack and tools" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,tailwind,postgres,mongodb,nodejs,express,nestjs,docker&perline=6" height="200" alt="Main Stack and tools" />
   </a>
 </div>
 
