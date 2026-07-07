@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ansar</h1>
 
-<h3 align="center">Full-Stack Developer 💻 | Crafting modern web applications</h3>
+<h3 align="center">Full-Stack Developer | Crafting modern web applications</h3>
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- ⚙️ Primary stack: React/NextJS & Java/SpringBoot.
+- ⚙️ Primary stack: Java/SpringBoot & React/NextJS.
 - 🔭 Deepening my knowledge in API optimization and architecture.
 - 🏆 Achievements: **II Place** in Auyl Hackathon
 - 📫 How to reach me: **[olzagula@gmail.com](mailto:olzagula@gmail.com)**
@@ -24,7 +24,7 @@
 
 <div align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,tailwind,postgres,mongodb,redis,nodejs,express,nestjs,docker,insomnia&perline=7" height="200" alt="Main Stack and tools" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,tailwind,postgres,mongodb,redis,nodejs,express,nestjs,docker&perline=7" height="200" alt="Main Stack and tools" />
   </a>
 </div>
 
