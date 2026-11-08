@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="github.gif" width="550" alt="" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZmczU0YjhyeXk1a29qZDAwMWNkbzQ1c3ZzejA3NmN0YzQxamhxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UByFQJYlKxprETlJ84/giphy.gif" width="550" alt="" />
   <br/>
 </div>
 
